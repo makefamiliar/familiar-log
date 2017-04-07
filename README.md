@@ -11,4 +11,7 @@ log('hello');
 log('hello', 'world');
 
 log('hello').json({ world: true });
+
+const response = await service.getData(options);
+log(`Count: ${response.length}`);
 ```
