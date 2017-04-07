@@ -1,6 +1,6 @@
 {
   "name": "familiar-log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The familiar log",
   "main": "dist/log.js",
   "scripts": {
@@ -13,10 +13,7 @@
   },
   "author": "",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/makefamiliar/familiar-log/issues"
-  },
-  "homepage": "https://github.com/makefamiliar/familiar-log#readme",
+  "homepage": "http://twitter.com/makeFamiliar",
   "devDependencies": {
     "ava": "^0.19.0",
     "babel-cli": "^6.10.1",
