@@ -1,6 +1,6 @@
 {
   "name": "familiar-log",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "The familiar log",
   "main": "dist/log.js",
   "scripts": {
