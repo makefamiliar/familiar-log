@@ -1,5 +1,9 @@
 # familiar-log
 
+🤖 💬 a logger for the familiars
+
+![doctor_strange-make_familiar](https://cloud.githubusercontent.com/assets/285708/24788999/b951fa1c-1b3e-11e7-9312-91a9734de280.jpg)
+
 ## Install
 
 ```
