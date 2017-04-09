@@ -12,12 +12,27 @@ npm i --save familiar-log
 
 ## a logger for familiars 
 
+### ES6 Example
+
 ```
 import { log } from 'familiar-log';
 
 log('hello');
 
 log('hello', 'world');
+
+log('hello').json({ world: true });
+
+const response = await service.getData(options);
+
+log(`Count: ${response.length}`);
+```
+### ES5 Example
+
+```
+var log = require('familiar-log').log
+
+log('hello');
 
 log('hello').json({ world: true });
 
