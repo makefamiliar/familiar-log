@@ -35,8 +35,4 @@ var log = require('familiar-log').log
 log('hello');
 
 log('hello').json({ world: true });
-
-const response = await service.getData(options);
-
-log(`Count: ${response.length}`);
 ```
